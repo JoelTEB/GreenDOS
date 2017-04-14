@@ -54,7 +54,7 @@ echo Installing updates...
 echo.
 echo Time left:
 timeout /nobreak /t 3649
-echo Update failed
+echo Update worked
 pause
 echo I tricked you, there was no update!
 echo You waisted an hour of your time!
