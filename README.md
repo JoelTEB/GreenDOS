@@ -1,15 +1,20 @@
+
 # Information
 GreenDOS is a virtual OS writen in MS-DOS Batch... Does not sound impressive but I am new to this stuff.
 I am rubbish at this (DOT)MD junk so this probably looks rubbish!
 > I have realised this is just Markdown and I am epic at Markdown!
 >> This does not look cool though...
 
+Here is a table of the current versions of GreenDOS.
+> Please note, all the times are in DD/MM/YY instead of MM/DD/YY. This is because I am British and that is how we do it in Britan!
+
 Version | When it came out
 ------- | ----------------
 0.1.0   | Never
 0.1.1   | Never
 0.1.2   | Never
-0.1.3   | It is here... Just as code though...
+0.1.3   | 14/04/2017
+0.1.4   | 14/04/2017
 
 # Download
 _You can **download** the file now..._ I will leave a link. __THANKS TO *WinRAR* IT IS AN EXICUTABLE WITH A CUSTOM ICON!__
