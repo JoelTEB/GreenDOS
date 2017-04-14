@@ -2,7 +2,7 @@
 GreenDOS is a virtual OS writen in MS-DOS Batch... Does not sound impressive but I am new to this stuff.
 I am new to this (DOT)MD junk so this probably looks like something someone new to this (DOT)MD junk would do...
 > I have realised this is just Markdown and I am epic at Markdown!
->> time to meake this site look EPIC!!!
+>> time to make this site look EPIC!!!
 
 Here is a table of the current versions of GreenDOS.
 > Please note, all the times are in DD/MM/YY instead of MM/DD/YY. This is because I am British and that is how we do it in Britan!
