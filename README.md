@@ -18,7 +18,7 @@ Version | When it came out
 # Download
 _You can **download** the file now..._ I will leave a link. __THANKS TO *WinRAR* IT IS AN EXICUTABLE WITH A CUSTOM ICON!__
 > Please note, the icon is just the MS-DOS Mobile icon but the text was changed to green.
->> I am not that good an artist to make my own... *Also, did it go C:\ or D:\?*
+>> I had no ideas for an icon and that's why I used the MS-DOS Mobile icon... Also, I am not sure if it goes C:\ or D:\ so...
 
 Download 0.1.4 [HERE!](http://www.mediafire.com/file/7437fh526wamcuc/GreenDOS.exe)
 > Please note, the password to use the beta is "green" all in lowercase letters.
