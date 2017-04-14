@@ -15,3 +15,5 @@ Version | When it came out
 _You can **download** the file now..._ I will leave a link. __THANKS TO *WinRAR* IT IS AN EXICUTABLE WITH A CUSTOM ICON!__
 > Please note, the icon is just the MS-DOS Mobile icon but the text was changed to green.
 >> I am not that good an artist to make my own... *Also, did it go C:\ or D:\?*
+
+Download 0.1.4 with this link: https://www.mediafire.com/?7437fh526wamcuc
