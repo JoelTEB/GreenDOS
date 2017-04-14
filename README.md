@@ -1,4 +1,3 @@
-
 # Information
 GreenDOS is a virtual OS writen in MS-DOS Batch... Does not sound impressive but I am new to this stuff.
 I am rubbish at this (DOT)MD junk so this probably looks rubbish!
@@ -22,3 +21,4 @@ _You can **download** the file now..._ I will leave a link. __THANKS TO *WinRAR*
 >> I am not that good an artist to make my own... *Also, did it go C:\ or D:\?*
 
 Download 0.1.4 [HERE!](http://www.mediafire.com/file/7437fh526wamcuc/GreenDOS.exe)
+> Please note, the password to use the beta is "green" all in lowercase letters.
