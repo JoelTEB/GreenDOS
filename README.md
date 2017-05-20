@@ -23,6 +23,6 @@ _You can **download** the file now..._ I will leave a link. __THANKS TO *WinRAR*
 Download 0.1.4 [HERE!](http://www.mediafire.com/file/7437fh526wamcuc/GreenDOS.exe)
 > Please note, the password to use the beta is "green" all in lowercase letters.
 
-#Now it is a Bootloader...
+# Now it is a Bootloader...
 As of GreenDOS 2.0, GreenDOS is a bootable OS! It is like the real MS-DOS... But it is not!
 There is no download yet, but you can see the code in the [GitHub repository](https://github.com/JoelTEB/GreenDOS/) but, please... DOM'T CONVERT IT INTO AN ISO AND SEND IT OFF TO PEOPLE IN JAPAN... Those people have to wait for the public build... Or I can call the police on you!
